@@ -1,0 +1,36 @@
+body {
+  background-color: #222831;
+  color: #393E46;
+}
+
+h1, h2 {
+  color: #00BFA5;
+}
+
+input, select {
+  border: 1px solid #393E46;
+  background-color: #282C34;
+  color: #fff;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #00BFA5;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #009D8C;
+}
+
+.task-card {
+  background-color: #282C34;
+  border: 1px solid #393E46;
+  padding: 15px;
+  margin-bottom: 10px;
+}
